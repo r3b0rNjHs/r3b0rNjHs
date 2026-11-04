@@ -2,7 +2,7 @@
 
 AI Engineer & Systems Architect from the Canary Islands. I build products where language models do real work, and the cloud platforms they run on.
 
-Over the last 7+ years I've gone from junior developer to CTO, founded an AI adtech startup and run platforms on AWS, Kubernetes and Terraform. These days I spend most of my time building with coding agents, MCP integrations and LLM features that real people use.
+Over the last 7+ years I've built and run products across the whole stack, from React frontends and Node.js backends to platforms on AWS, Kubernetes and Terraform. Along the way I went from junior developer to CTO and founded an AI adtech startup. These days I spend most of my time building with coding agents, MCP integrations and LLM features that real people use.
 
 **Portfolio:** [r3b0rnjhs.github.io](https://r3b0rnjhs.github.io) · **CV:** [English](https://r3b0rnjhs.github.io/cv/jorge-hernandez-cv-en.pdf) / [Español](https://r3b0rnjhs.github.io/cv/jorge-hernandez-cv-es.pdf) · **LinkedIn:** [in/jhernandezsuarez](https://www.linkedin.com/in/jhernandezsuarez)
 
@@ -21,6 +21,6 @@ Over the last 7+ years I've gone from junior developer to CTO, founded an AI adt
 
 #### Tools I use most
 
-TypeScript · Python · Claude Code · MCP · AWS · Kubernetes · Terraform · Docker · PostgreSQL
+TypeScript · Node.js · React · Python · Claude Code · MCP · AWS · Kubernetes · Terraform · Docker · PostgreSQL
 
 📫 hernansua.jorge@gmail.com

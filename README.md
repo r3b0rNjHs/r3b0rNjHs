@@ -1,6 +1,6 @@
 ### Hi, I'm Jorge 👋
 
-AI Engineer & Systems Architect from the Canary Islands. I build products where language models do real work, and the cloud platforms they run on.
+Full stack AI engineer and systems architect from the Canary Islands. I build products where language models do real work, and the cloud platforms they run on.
 
 Over the last 7+ years I've built and run products across the whole stack, from React frontends and Node.js backends to platforms on AWS, Kubernetes and Terraform. Along the way I went from junior developer to CTO and founded an AI adtech startup. These days I spend most of my time building with coding agents, MCP integrations and LLM features that real people use.
 
